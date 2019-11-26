@@ -21,7 +21,7 @@ Bashbot [Documentation](https://github.com/topkecleon/telegram-bot-bash) and [Do
 * [Introdution to Telegram Bots](https://core.telegram.org/bots)
 * [Install Bashbot](doc/0_install.md)
     * Install release
-    * Install from githup
+    * Install from github
     * Update Bashbot
     * Notes on Updates
 * [Get Bottoken from Botfather](doc/1_firstbot.md)
